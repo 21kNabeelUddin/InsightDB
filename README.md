@@ -1,6 +1,6 @@
 # InsightDB - Conversational SQL Assistant
 
-## InsightDB is an AI-powered SQL assistant that allows users to interact with their MySQL databases using natural language queries. It generates SQL queries based on user input and provides detailed responses by fetching relevant data from the database. This project leverages LangChain, Groq's Mistral-8x7B, and Streamlit to create a seamless database query experience.
+InsightDB is an AI-powered SQL assistant that allows users to interact with their MySQL databases using natural language queries. It generates SQL queries based on user input and provides detailed responses by fetching relevant data from the database. This project leverages LangChain, Groq's Mistral-8x7B, and Streamlit to create a seamless database query experience.
 
 ## Features
 
